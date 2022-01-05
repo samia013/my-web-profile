@@ -7,3 +7,15 @@ h1{
 .color{
     color:brown;
 }
+section{
+    display:flex
+
+
+}
+.half{
+    width:50%;
+    padding-left: 10%;
+}
+.half img{
+    width: 70%;
+}
